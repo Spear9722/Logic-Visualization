@@ -1,0 +1,14 @@
+C:\Users\seanp\Documents\Logic-Visualization\Logic\bin\Debug\net10.0\Logic.exe
+C:\Users\seanp\Documents\Logic-Visualization\Logic\bin\Debug\net10.0\Logic.deps.json
+C:\Users\seanp\Documents\Logic-Visualization\Logic\bin\Debug\net10.0\Logic.runtimeconfig.json
+C:\Users\seanp\Documents\Logic-Visualization\Logic\bin\Debug\net10.0\Logic.dll
+C:\Users\seanp\Documents\Logic-Visualization\Logic\bin\Debug\net10.0\Logic.pdb
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.AssemblyInfoInputs.cache
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.AssemblyInfo.cs
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.dll
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\refint\Logic.dll
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.pdb
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\Logic.genruntimeconfig.cache
+C:\Users\seanp\Documents\Logic-Visualization\Logic\obj\Debug\net10.0\ref\Logic.dll
